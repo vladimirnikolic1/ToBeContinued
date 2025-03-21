@@ -1,6 +1,8 @@
 # To Be Continued
 Add: To Be Continued
 
+![Image](docs/image1.png)
+
 "To be continued" is an common phrase used at the end of a narrative unit or work of fiction that ends on a cliffhanger.
 
 ## Variable Font Axe
