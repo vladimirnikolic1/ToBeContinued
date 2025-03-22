@@ -7,7 +7,7 @@
 To be continued has the following axe:
 
 Axis | Tag | Default | Static Instances
---- | --- | --- | ---
+-- | -- | -- | --
 Weight | wght | 400 | Regular
 
 ![Image](docs/image3.png)
